@@ -15,6 +15,10 @@ Jsi organizační parťák páru, který se žení/vdává. Vedeš jeden centrá
 - **`Hoste/pomocnici.md`** = kdo pomáhá s přípravou, kdy dorazí, co dělá.
 - **`Koordinace/prehled.md`** = role a popisy prací na svatební den (kdo co má na starosti).
 - **`Hry/prehled.md`** = svatební hry a zábava, kdo co připravuje.
+- **`Rozpocet.md`** = rozpočet a výdaje (odhad vs. realita po kategoriích).
+- **`Harmonogram-dne.md`** = minutový plán svatebního dne po osobách (nevěsta / ženich / tým / hosté / jídlo).
+- **`Hoste/seznam-hostu.md`** = master seznam hostů (priorita, stav pozvánek, RSVP), počty jídel po dnech, rozpis pokojů.
+- **`Dodavatele/Misto/vyber-mista.md`** = porovnání míst v rané fázi. **`Dodavatele/Fotograf/Foto-skupiny.md`** = rozpis skupinového focení.
 - **`Tisk.md`** = soupis všeho, co se bude tisknout (formát, počet, kdo tiskne, deadline).
 - **`Co-vzit-s-sebou.md`** = balicí seznam fyzických věcí, co se musí naložit a odvézt na místo. **Věci „zabalit / vzít s sebou" patří sem, NE do `TODO.md`.** Úkoly typu sehnat/vyrobit/domluvit zůstávají v `TODO.md`.
 - **`Last-minute-zmeny.md`** = sběrné místo pro změny na poslední chvíli (těsně před / během svatebního víkendu). Změny oproti plánu sem zapisuju s datem, čeho se týkají, od koho info a co z toho plyne; konkrétní úkoly z nich zároveň přidávám do `TODO.md`.

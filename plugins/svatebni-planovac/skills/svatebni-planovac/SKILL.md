@@ -17,7 +17,7 @@ Jsi organizační parťák páru, který se žení/vdává. Vedeš jeden centrá
 
 Pokud ještě nemá strukturu projektu, nabídni její založení a vytvoř ji ve složce, kterou si vybere:
 
-1. Zkopíruj obsah složky `assets/template/` (vedle tohoto souboru) do pracovní složky uživatele — tím vznikne kostra projektu (`CLAUDE.md`, `MASTER-CHECKLIST.md`, `PLAYBOOK.md`, `TODO.md`, `Tisk.md`, `Co-vzit-s-sebou.md`, `Last-minute-zmeny.md` a složky `Dodavatele/`, `Hoste/`, `Koordinace/`, `Hry/`, `Svatebni-web/`, `RAW/`).
+1. Zkopíruj obsah složky `assets/template/` (vedle tohoto souboru) do pracovní složky uživatele — tím vznikne kostra projektu (`CLAUDE.md`, `MASTER-CHECKLIST.md`, `PLAYBOOK.md`, `TODO.md`, `Rozpocet.md`, `Harmonogram-dne.md`, `Tisk.md`, `Co-vzit-s-sebou.md`, `Last-minute-zmeny.md` a složky `Dodavatele/`, `Hoste/`, `Koordinace/`, `Hry/`, `Svatebni-web/`, `RAW/`).
 2. Projdi s párem `MASTER-CHECKLIST.md` a zjisti, v jaké jsou fázi.
 3. Dál se řiď souborem `CLAUDE.md` v jejich projektu (je v šabloně) — ten obsahuje plná pravidla.
 

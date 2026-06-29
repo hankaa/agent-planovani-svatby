@@ -12,3 +12,15 @@
 | Svatební instrukce + plánek parkování |  |  |  |  | ⬜ |
 | Zasedací pořádek |  |  |  |  | ⬜ |
 | Fotky na výstavku |  |  |  |  | ⬜ |
+
+## Navigační cedule (orientační systém)
+
+> Pokud máte zahraniční hosty, dělej cedule **dvojjazyčně**. U každé: kam patří a kolik kusů.
+
+| Nápis (jazyk 1) | Nápis (jazyk 2) | Počet | Umístění |
+|---|---|---|---|
+| Vítejte na naší svatbě |  |  | vjezd do areálu |
+| Recepce |  |  | mezi budovami |
+| Obřad → |  |  | rozcestník |
+| WC |  |  | rozcestník |
+| Ubytování → |  |  | rozcestník |

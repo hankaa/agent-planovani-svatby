@@ -12,15 +12,15 @@
 - [ ] Sladit svoje představy o svatbě (velikost, styl, formálnost, rozpočtový strop)
 - [ ] Vybrat datum svatby
 - [ ] Založit si složku pro projekt svatba *(tahle šablona)*
-- [ ] Dohodnout se na svatebním rozpočtu
-- [ ] Sepsat si seznam hostů *(hrubý — upřesní se)*
+- [ ] Dohodnout se na svatebním rozpočtu *(veď ho v `Rozpocet.md`)*
+- [ ] Sepsat si seznam hostů *(hrubý — upřesní se; veď v `Hoste/seznam-hostu.md`)*
 - [ ] Zvážit předmanželskou smlouvu *(pokud ano, oslovit právníka — viz `Dodavatele/Pravnicka/`)*
 - [ ] Zvážit najmutí svatebního koordinátora
 - [ ] 💡 **Rozeslat Save the Date** — pokud máte datum a místo, dejte lidem hodně dopředu vědět, ať s termínem počítají (zvlášť u hostů, co musí daleko cestovat). Detail v `Svatebni-web/prehled.md`.
 
 ## 10–11 měsíců do svatby
 
-- [ ] Vybrat a rezervovat místo konání svatby *(klíčové — váže na sebe datum, kapacitu, catering)*
+- [ ] Vybrat a rezervovat místo konání svatby *(klíčové — váže na sebe datum, kapacitu, catering; porovnání v `Dodavatele/Misto/vyber-mista.md`)*
 - [ ] Zajistit termín na matrice a oddávajícího *(viz `Dodavatele/Matrika/` a `Dodavatele/Oddavajici/`)*
 - [ ] Začít se poohlížet po svatebních šatech
 - [ ] Zajistit si ubytování na svatební noc
@@ -45,7 +45,7 @@
 - [ ] Vybrat cateringovou společnost a menu *(viz `Dodavatele/Catering/`)*
 - [ ] Vybrat svatební dort *(viz `Dodavatele/Dort/`)*
 - [ ] Vybrat oblek a doplňky pro ženicha
-- [ ] Sestavit harmonogram dne
+- [ ] Sestavit harmonogram dne *(veď v `Harmonogram-dne.md`)*
 - [ ] Začít plánovat svatební cestu
 
 ## 4–5 měsíců do svatby

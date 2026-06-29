@@ -14,10 +14,6 @@
 
 
 
-## Otevřené body
+## Skladby podle momentu obřadu
 
-- [ ]
-
-## Zdroje (RAW)
-
--
+> Naplánuj 

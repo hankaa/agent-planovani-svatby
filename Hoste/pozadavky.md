@@ -16,10 +16,13 @@
 
 ### Dietní omezení a alergie
 > Posbírej od všech (formulář) a rozepiš jmenovitě. Promítni do oběda, večeře, rautu, snídaní i dortu.
+> Tip: seskup hosty do **clusterů** podle kombinace omezení (např. „bezlepek + bezlaktóza") — snáz se pak hlásí počty cateringu a chystají varianty.
 
-| Host | Omezení | Promítnuto kam | Stav |
-|---|---|---|---|
-|  |  |  |  |
+| Cluster (kombinace) | Host | Vege | Bezlepek | Bezlaktóza | Jiná alergie | Konkrétní chod / pozn. |
+|---|---|---|---|---|---|---|
+|  |  |  |  |  |  |  |
+
+**Souhrn počtů pro catering:** bezlepkových __ · bezlaktózových __ · vegetariánů __ · jiné __
 
 ### Ubytování
 - Kapacita (lůžka / přistýlky / stan):

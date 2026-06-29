@@ -25,33 +25,28 @@ Web slouží k informování hostů a hlavně k **registraci hostů přes formul
 - Přezouvání, deky na louku, mazlíčci (ano/ne)
 - Sdílené fotoalbum, kontakt na organizaci
 
-## Registrační (RSVP) formulář — šablona otázek
+### Tip na strukturu webu: „TL;DR box" nahoře
 
-Formulář, který hostům posíláte (např. Google Forms). Odpovědi pak přenášíte do `Hoste/pozadavky.md`.
+Hosté čtou málo. Dej úplně nahoru rámeček s výcucem pro ty, kdo nečtou dlouhé texty, a teprve pod ním rozepiš detaily:
 
-1. **Časová značka** *(automaticky)*
-2. **E-mailová adresa**
-3. **Jméno**
-4. **Mobilní číslo**
-5. **Přijedu na svatbu [datum]:** ano / ne
-6. **Stravovací dieta / alergie** *(lze zaškrtnout více možností:* bez omezení / vegetariánská / veganská / bezlepková / bezlaktózová / bez konkrétní suroviny / jiné*)*
-7. **Přípitek chci:** s alkoholem / nealko
-8. **Budu chtít přespat v areálu z [noc] na [noc]:** ano / ne
-9. **Pokud nebudete přespávat na místě, budete chtít zajistit odvoz jinam?**
-10. **Přijedete s dětmi?** *(počet + věk dětí)*
-11. **Zdravotní nebo jiná omezení**
-12. **Chcete nám sdělit ještě něco?**
+> **Pro ty, kdo nečtou víc než 50 slov:**
+> - **Kdy:** [datum a čas příjezdu]
+> - **Kde:** [místo + odkaz na mapu]
+> - Vyplnit **RSVP** (zabere 15 s)
+> - **Dress code:** [např. Garden Cocktail]
+> - Přidat písně do **playlistu** [odkaz]
+> - **S sebou (volitelně):** [např. nástroj, deka]
 
-> Tip: otázky 6, 8, 10 a 11 jdou rovnou do plánování (diety → menu; přespání → lůžka a snídaně; děti → kapacita a hlídání). Drž si u každé odpovědi **jméno hosta**.
+## Předsvatební připomínka hostům (týden předem) — co má obsahovat
 
-## Aktuální stav
+> Nepíšu za pár e-mail; tohle je **obsahový checklist**, ať na nic nezapomenou, až připomínku rozesílají sami. Většinu zopakuj z webu.
 
--
-
-## Otevřené body
-
-- [ ]
-
-## Zdroje (RAW)
-
--
+- [ ] Datum, místo, **čas příjezdu**
+- [ ] Parkování + odkaz na mapu/plánek
+- [ ] Přezouvání pro ubytované
+- [ ] Mazlíčci (ano/ne)
+- [ ] Odkaz na playlist
+- [ ] Deka na trávu (volitelně)
+- [ ] Co se děje večer (táborák / tanec) + co si vzít
+- [ ] Recepce při příjezdu — kdo tam bude, co dostanou (klíče, květina)
+- [ ] Občerstvení před obřadem, čas a

@@ -39,7 +39,9 @@ Pak stačí říct, že plánuješ svatbu — skill se přihlásí, nabídne zal
 | `MASTER-CHECKLIST.md` | Časová osa úkolů 12+ měsíců → po svatbě. |
 | `PLAYBOOK.md` | Co s kým probrat u každé oblasti + záludnosti z praxe. |
 | `TODO.md` | Centrální přehled úkolů. Zdroj pravdy. |
-| `Dodavatele/` | Přehledy dodavatelů (`prehled.md`). |
+| `Rozpocet.md` | Rozpočet a výdaje (odhad vs. realita). |
+| `Harmonogram-dne.md` | Minutový plán dne po osobách. |
+| `Dodavatele/` | Přehledy dodavatelů (`prehled.md`), výběr místa, rozpis focení. |
 | `Svatebni-web/` | Příprava webu + šablona RSVP formuláře. |
 | `Hoste/` | Požadavky hostů a pomocníci. |
 | `Koordinace/` | Role na svatební den. |

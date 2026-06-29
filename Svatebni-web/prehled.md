@@ -25,6 +25,36 @@ Web slouží k informování hostů a hlavně k **registraci hostů přes formul
 - Přezouvání, deky na louku, mazlíčci (ano/ne)
 - Sdílené fotoalbum, kontakt na organizaci
 
+### Tip na strukturu webu: „TL;DR box" nahoře
+
+Hosté čtou málo. Dej úplně nahoru rámeček s výcucem pro ty, kdo nečtou dlouhé texty, a teprve pod ním rozepiš detaily:
+
+> **Pro ty, kdo nečtou víc než 50 slov:**
+> - **Kdy:** [datum a čas příjezdu]
+> - **Kde:** [místo + odkaz na mapu]
+> - Vyplnit **RSVP** (zabere 15 s)
+> - **Dress code:** [např. Garden Cocktail]
+> - Přidat písně do **playlistu** [odkaz]
+> - **S sebou (volitelně):** [např. nástroj, deka]
+
+## Předsvatební připomínka hostům (týden předem) — co má obsahovat
+
+> Nepíšu za pár e-mail; tohle je **obsahový checklist**, ať na nic nezapomenou, až připomínku rozesílají sami. Většinu zopakuj z webu.
+
+- [ ] Datum, místo, **čas příjezdu**
+- [ ] Parkování + odkaz na mapu/plánek
+- [ ] Přezouvání pro ubytované
+- [ ] Mazlíčci (ano/ne)
+- [ ] Odkaz na playlist
+- [ ] Deka na trávu (volitelně)
+- [ ] Co se děje večer (táborák / tanec) + co si vzít
+- [ ] Recepce při příjezdu — kdo tam bude, co dostanou (klíče, květina)
+- [ ] Občerstvení před obřadem, čas a místo obřadu, dress code
+- [ ] Odkaz na podrobný harmonogram (web)
+- [ ] Fotokoutek + kreativní úkol pro hosty
+- [ ] Info, že je přidáme do **koordinační WhatsApp skupiny** na den D
+- [ ] Na koho se obracet s dotazy (do pátku pár, v sobotu svědci)
+
 ## Registrační (RSVP) formulář — šablona otázek
 
 Formulář, který hostům posíláte (např. Google Forms). Odpovědi pak přenášíte do `Hoste/pozadavky.md`.
