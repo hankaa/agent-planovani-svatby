@@ -1,0 +1,12 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*~
+.vscode/
+.idea/
+
+# Privátní data konkrétní svatby:
+# když repo používáš jako svůj projekt, nepushuj surové podklady.
+# (Anchorováno na kořen — nabundlovaná šablona ve skillu zůstává verzovaná.)
+/RAW/*
+!/RAW/README.md

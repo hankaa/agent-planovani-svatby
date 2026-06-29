@@ -1,0 +1,9 @@
+{
+  "name": "svatebni-planovac",
+  "description": "Asistent pro přípravu svatby. Vede centrální přehled úkolů, zpracovává podklady od dodavatelů a hostů, drží workflow RAW → přehled → TODO a umí založit kompletní strukturu svatebního projektu.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Svatební agent"
+  },
+  "keywords": ["svatba", "wedding", "planovani", "checklist", "organizace"]
+}
